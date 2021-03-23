@@ -1,0 +1,48 @@
+.darkOnClick{
+    background-color:red;
+}
+
+
+#titlePage{
+    margin-left: 70px;
+}
+
+
+.itemCard{
+    width:200px;
+    height:420px;
+    box-shadow: 2px 4px 4px grey;
+    margin:15px;
+    
+}
+
+.itemImage{
+    width:200px;
+    height:250px;
+
+}
+
+.itemName{
+    font-size: 18px;
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.brandName{
+    margin-left: 10px;
+
+}
+.itemPrice{
+    margin-left: 10px;
+
+}
+
+.cardsSection{
+    width:90%;
+    margin:auto;
+    display: flex;
+   flex-wrap: wrap;
+}
